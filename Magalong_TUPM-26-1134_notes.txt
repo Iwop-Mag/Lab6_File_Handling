@@ -1,0 +1,5 @@
+Student: Magalong
+Student ID: TUPM-26-1134
+Seed digit: 4
+ID sum: 17
+Verification value: 140
