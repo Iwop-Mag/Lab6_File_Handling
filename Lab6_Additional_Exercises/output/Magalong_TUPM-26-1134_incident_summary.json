@@ -1,0 +1,18 @@
+{
+    "last_name": "Magalong",
+    "student_id": "TUPM-26-1134",
+    "target_year": 2019,
+    "total_records": 3000,
+    "incidents_in_target_year": 263,
+    "invalid_financial_values": 0,
+    "count_per_attack_type": {
+        "Phishing": 45,
+        "Ransomware": 38,
+        "Malware": 43,
+        "Man-in-the-Middle": 44,
+        "SQL Injection": 45,
+        "DDoS": 48
+    },
+    "total_financial_loss_usd_millions": 13134.69,
+    "average_financial_loss_usd_millions": 49.94
+}

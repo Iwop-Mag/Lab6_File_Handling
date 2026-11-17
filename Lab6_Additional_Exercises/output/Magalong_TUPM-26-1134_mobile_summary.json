@@ -1,0 +1,14 @@
+{
+    "last_name": "Magalong",
+    "student_id": "TUPM-26-1134",
+    "seed_digit": 4,
+    "operating_system": "Android",
+    "user_behavior_class": 5,
+    "total_records": 700,
+    "records_matching_os": 554,
+    "records_in_target_class": 105,
+    "average_battery_drain_mah_per_day": 2693.06,
+    "average_data_usage_mb_per_day": 1984.77,
+    "exported_row_count": 105,
+    "count_verified": true
+}

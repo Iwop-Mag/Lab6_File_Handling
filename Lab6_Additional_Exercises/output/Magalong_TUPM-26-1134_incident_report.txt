@@ -1,0 +1,31 @@
+CYBERSECURITY INCIDENT REPORT
+-----------------------------
+Last Name: Magalong
+Student ID: TUPM-26-1134
+Target Year: 2019
+Incidents in Target Year: 263
+
+Incident Count per Attack Type:
+  DDoS: 48
+  Phishing: 45
+  SQL Injection: 45
+  Man-in-the-Middle: 44
+  Malware: 43
+  Ransomware: 38
+
+Financial Losses (USD millions):
+  Total: 13134.69
+  Average: 49.94
+
+Five Costliest Incidents:
+  1. Phishing | Germany | Healthcare | 99.97 M
+  2. Man-in-the-Middle | Russia | Retail | 99.53 M
+  3. Phishing | UK | Education | 99.45 M
+  4. Ransomware | Germany | Government | 99.3 M
+  5. SQL Injection | Australia | Government | 99.2 M
+
+Output Files:
+  Filtered CSV: Magalong_TUPM-26-1134_incidents_2019.csv
+  JSON Summary: Magalong_TUPM-26-1134_incident_summary.json
+  Top Five JSON: Magalong_TUPM-26-1134_top5_incidents.json
+  Backup File: Magalong_TUPM-26-1134_top5_incidents.json
